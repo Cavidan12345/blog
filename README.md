@@ -9,11 +9,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Third part Libraries
 
-Axios
-React Router
-Styled-components
-Redux
-Material UI
+Axios,
+React Router,
+Styled-components,
+Redux,
+Material UI,
 MUI Icons
 
 ###
